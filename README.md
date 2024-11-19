@@ -2,6 +2,12 @@
 
 A modern e-commerce platform for premium furniture and interior design products, built with React, TypeScript, and Tailwind CSS.
 
+![screencapture-localhost-5173-2024-11-19-11_44_54](https://github.com/user-attachments/assets/91ec3e1a-8f7e-40f7-b345-b4260fec8080)
+
+
+
+
+
 ## Features
 
 - 🛍️ Product catalog with filtering and search
